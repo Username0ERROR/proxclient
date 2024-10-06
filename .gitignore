@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# IDE and Editor Specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build and Distribution
+dist/
+build/
+*.egg-info/
+
+# Static files (if generated)
+frontend/static/
+frontend/assets/
+
+# noVNC files (if downloaded)
+frontend/noVNC/
+
+# Others
+*.sqlite3
